@@ -1,9 +1,9 @@
 
-### Hey 👋, I'm Hoa
+### Hey 👋, I'm Vinh
 
 [![Github](https://img.shields.io/github/followers/quangvinh1102?label=Follow&style=social)](https://github.com/quangvinh1102)
 
-I am a BackEnd developer from Vietnam ❤️.
+I am a Frontend developer from Vietnam ❤️.
 
 <br>
 
